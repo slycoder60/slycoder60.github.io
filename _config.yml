@@ -1,11 +1,11 @@
 # Site settings
-author: Omar Farah
-title: 
+author: Omar
+title: Confessions Of a Bootcamp Student
 header-img: img/home-bg.png
 email: farah.omar8787@gmail.com
-copyright_name: Omar Farah
+copyright_name: Omar
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Art of Coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  slycoder60
